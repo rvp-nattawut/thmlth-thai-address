@@ -1,5 +1,5 @@
 {
-  "name": "@riverpark/thai-address-database",
+  "name": "thmlth-address-database",
   "version": "0.1.1",
   "description": "ฐานข้อมูลที่อยู่ในประเทศไทยสำหรับ TMLTH",
   "main": "lib/index.js",
